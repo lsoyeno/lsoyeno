@@ -10,7 +10,6 @@
 - **전공:** 컴퓨터공학 / 정보보안학 / 정보관리학
 - **관심 분야:** 시스템 및 네트워크 보안, 취약점 분석, 정적 코드 분석, 접근 제어 및 데이터 거버넌스, XR컨텐츠
 - **이메일:** 'soyeonlee0214@naver.com'
-- **링크:** [깃허브](https://github.com/kim-security) | [기술 블로그](https://blog.example.com) | [링크드인](https://linkedin.com/in/kim-security)
 
 ---
 

@@ -1,10 +1,57 @@
-# 한신대학교 AI.SW대학 이소연입니다.
-## 한신대학교 AI.SW대학 이소연입니다.
-### 한신대학교 AI.SW대학 이소연입니다.
-#### 한신대학교 AI.SW대학 이소연입니다.
-##### 한신대학교 AI.SW대학 이소연입니다.
-###### 한신대학교 AI.SW대학 이소연입니다.
+# 이소연 (Lee Soyeon)
+**컴퓨터공학·정보보안·정보관리 전공 학부생**
 
 ---
 
-한신대학교 AI.SW대학 이소연입니다.
+## 프로필
+컴퓨터공학을 기반으로 정보보안 및 정보관리를 다전공하며, 안전한 디지털 환경을 구축하는 기술에 집중하고 있습니다.  
+소프트웨어 개발 단계부터 보안을 고려하는 **안전한 개발(Secure Coding)**, **시스템 취약점 분석**, **기업 데이터 자산 관리 및 보호**에 깊은 관심을 두고 있으며, 보안과 개발 역량을 겸비한 **보안 아키텍트**를 목표로 공부하고 있습니다.
+
+- **전공:** 컴퓨터공학 / 정보보안학 / 정보관리학
+- **관심 분야:** 시스템 및 네트워크 보안, 취약점 분석, 정적 코드 분석, 접근 제어 및 데이터 거버넌스
+- **이메일:** 'soyeonlee0214@naver.com'
+- **링크:** [깃허브](https://github.com/kim-security) | [기술 블로그](https://blog.example.com) | [링크드인](https://linkedin.com/in/kim-security)
+
+---
+
+## 보유 기술
+
+### 정보보안 및 침해대응
+- **취약점 분석 및 진단:** 버프스위트(Burp Suite), 와이어샤크(Wireshark), 엔맵(Nmap)
+- **보안 공학:** 시큐어 코딩 (OWASP 탑 10), 암호학 기초, 접근 제어(IAM) 설계
+- **디지털 포렌식:** 볼라티리티(Volatility), FTK 이미저(FTK Imager)
+
+### 소프트웨어 개발 및 시스템
+- **개발 언어:** C, C++, 파이썬(Python), 자바(Java), 배시(Bash)
+- **시스템 및 인프라:** 리눅스/유닉스 환경, 도커(Docker), AWS 기초
+- **데이터베이스 및 정보 관리:** 포스트그레스큐엘(PostgreSQL), 마이에스큐엘(MySQL), 레디스(Redis)
+
+---
+
+## 주요 프로젝트 및 연구
+
+| 프로젝트명 | 프로젝트 개요 | 사용 기술 | 저장소 |
+| :--- | :--- | :--- | :---: |
+| **정적 코드 보안 분석기** | 파이썬 코드의 구조를 분석하여 주요 보안 취약점을 자동 감지하는 도구 | `Python`, `AST`, `Docker` | [바로가기](https://github.com/kim-security/secure-code-analyzer) |
+| **실시간 로그 이상 감지 시스템** | 서버 접속 기록과 로그를 실시간 수집·분석하여 이상 징후를 감지하는 파이프라인 | `Python`, `Elasticsearch`, `Logstash` | [바로가기](https://github.com/kim-security/log-sentinel) |
+| **데이터 자산 접근 제어 프레임워크** | 기업 데이터 자산의 권한 관리 및 개인정보 처리방침 자동화 설계 연구 | `Java`, `Spring Boot`, `PostgreSQL` | [바로가기](https://github.com/kim-security/infogov-framework) |
+
+---
+
+## 학력 및 자격 사항
+- **[한신대학교] 컴퓨터공학·정보보안·정보관리학전공** (2025.03 - 재학 중)
+  - 주요 이수 과목: 컴퓨터구조, 운영체제, 네트워크, 정보보호론, 현대암호학, 정보자원관리론
+- **자격증 및 수상**
+  - 정보처리기사 (2025)
+  - CompTIA Security+ (2025)
+- **활동**
+  - 대학 연합 보안 동아리 [IOS Lab] (2025.03 - 현재)
+
+---
+
+## 깃허브 통계
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kim-security&show_icons=true&theme=flat&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kim-security&layout=compact&theme=flat&hide_border=true" height="150"/>
+</div>
